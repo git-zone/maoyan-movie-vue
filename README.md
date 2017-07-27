@@ -10,7 +10,7 @@
 # 运行项目
 ``` bash
 # 克隆整个项目到本地
-git clone https://github.com/zhixuanziben/gouyan-movie-vue.git
+git clone https://github.com/git-zone/maoyan-movie-vue
 
 # 切换到项目所在文件夹
 cd gouyan-movie-vue
